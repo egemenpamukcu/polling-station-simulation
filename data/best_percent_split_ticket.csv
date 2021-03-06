@@ -1,0 +1,13 @@
+config_file,num_trials,target_wait_time,percent_split_ticket,avg_wait_time
+config-single-precinct-3.json,1,0.01,0.1,0.025632439045770013
+config-single-precinct-3.json,1,1,0.5,4.098941725751714
+config-single-precinct-3.json,1,25,0.7,41.7266438057808
+config-single-precinct-3.json,1,50,0.9,72.201295776507
+config-single-precinct-3.json,1,100,1.0,178.5005180862984
+config-single-precinct-3.json,1,200,1,
+config-single-precinct-3.json,20,0.01,0.1,0.029695726183164184
+config-single-precinct-3.json,20,1,0.4,2.1128968840075903
+config-single-precinct-3.json,20,25,0.7,39.711862626140935
+config-single-precinct-3.json,20,50,0.8,70.02999082207992
+config-single-precinct-3.json,20,100,1.0,159.67741668994344
+config-single-precinct-3.json,20,200,1,

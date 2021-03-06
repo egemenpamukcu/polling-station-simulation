@@ -1,0 +1,105 @@
+{ 
+  "seed": 1438021247,
+  "precincts": [
+      {
+       "name": "Downtown (1 booth)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 1,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (2 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 2,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (3 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 3,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (4 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 4,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (5 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 5,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (10 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 10,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (50 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 50,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (100 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 100,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (500 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 500,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      },
+      {
+       "name": "Downtown (1000 booths)",
+       "hours_open": 13, 
+       "num_voters": 500, 
+       "num_booths": 1000,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.7,
+       "percent_straight_ticket": 0,
+       "straight_ticket_duration": 2
+      }
+  ]
+}

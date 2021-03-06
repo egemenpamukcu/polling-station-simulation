@@ -1,0 +1,16 @@
+{ 
+  "seed": 1438018945,
+  "precincts": [
+      {
+       "name": "Little Rodentia",
+       "hours_open": 1, 
+       "num_voters": 10, 
+       "num_booths": 2,
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.16666666666666666,
+       "percent_straight_ticket": 0.5,
+       "straight_ticket_duration": 2
+      }
+  ]
+}
+
